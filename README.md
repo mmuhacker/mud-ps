@@ -31,7 +31,7 @@
 - [التثبيت على Termux](#Termux)
 - [التثبيت على Kali Linux](https://github.com/mmuhacker/mud-ps/blob/main/README.md#kali-linux)
 - [التشغيل](#-التشغيل)
-- [طريقة الاستخدام](#طريقة_الاستخدام)
+- [طريقة الاستخدام](https://github.com/mmuhacker/mud-ps/blob/main/README.md#-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85)
 - [مثال على طريقة الإستخدام](#-مثال)
 
 ---
