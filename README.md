@@ -1,9 +1,28 @@
 <div align="center">
    
 # 🔍 Port Scanner — أداة مسح المنافذ
-**المطور:** ꧁ঔৣ☬ Muhannad Daher ☬ঔৣ꧂ | **الإصدار:** 1.0 | **المستودع:** `mud-ps`
+ ꧁ঔৣ☬ Muhannad Daher ☬ঔৣ꧂
 
 ---
+
+![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
+
+![Platform](https://img.shields.io/badge/Platform-Kali_Linux-green?style=for-the-badge&logo=kalilinux)
+
+![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)
+
+![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python)
+
+![License](https://img.shields.io/badge/License-MIT_License-red?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
+
+---
+
+**المحتويات:**
+- [الوصف](#-الوصف)
+
 </div>
 ## 📌 الوصف
 أداة لمسح المنافذ المفتوحة على أي هدف سواء كان عنوان IP أو نطاقاً، مكتوبة بلغة Python وتعمل على Termux و Kali Linux. تستخدم تعدد الخيوط (Threading) لأقصى سرعة ممكنة وتعرض اسم الخدمة المرتبطة بكل منفذ مفتوح.
@@ -90,5 +109,17 @@ pkg install python
 استخدامها على أنظمة بدون إذن يُعدّ مخالفاً للقانون.
 
 ---
+<div align="center">
+   
+## 👨‍💻 المطور
+
+**Muhannad Daher**
+
+[![GitHub](https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=github)](https://github.com/mmuhacker)
+
+[![Contact Us](https://img.shields.io/badge/Contact_Us-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
+
+---
 
 *🇯🇴 Madarik Tools — صُنع بالعربية*
+</div>
