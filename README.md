@@ -35,13 +35,17 @@
 - [مثال على طريقة الإستخدام](#-مثال)
 
 ---
+<div align="center">
 
 ## 📌 الوصف
+</div>
 أداة لمسح المنافذ المفتوحة على أي هدف سواء كان عنوان IP أو نطاقاً، مكتوبة بلغة Python وتعمل على Termux و Kali Linux. تستخدم تعدد الخيوط (Threading) لأقصى سرعة ممكنة وتعرض اسم الخدمة المرتبطة بكل منفذ مفتوح.
 
 ---
-
-## ✨ المميزات
+<div align="center">
+   
+   ## ✨ المميزات
+   </div
 - 🔍 مسح سريع للمنافذ الشائعة (17 منفذ) في ثوانٍ
 - 🎯 مسح مخصص بتحديد نطاق المنافذ بنفسك
 - 🌐 مسح كامل من المنفذ 1 حتى 65535
@@ -50,17 +54,21 @@
 - 🌍 واجهة عربية بالكامل
 
 ---
+<div align="center">
 
 ## ⚙️ التثبيت
 
+
 ### Termux
+
 ```bash
 curl -o $PREFIX/bin/mud_ps.py https://raw.githubusercontent.com/mmuhacker/mud-ps/main/mud_ps.py
 chmod +x $PREFIX/bin/mud_ps.py
 ln -sf $PREFIX/bin/mud_ps.py $PREFIX/bin/ps
 ```
-
+---
 ### Kali Linux
+
 ```bash
 sudo curl -o /usr/local/bin/mud_ps.py https://raw.githubusercontent.com/mmuhacker/mud-ps/main/mud_ps.py
 sudo chmod +x /usr/local/bin/mud_ps.py
@@ -68,14 +76,16 @@ sudo ln -sf /usr/local/bin/mud_ps.py /usr/local/bin/ps
 ```
 
 ---
-<div align="center">
    
 ## 🚀 التشغيل
 </div>
+
 ```bash
 ps
 ```
+
 **أو بالأمر الكامل**
+
 ```bash
 mud_ps.py
 ```
@@ -111,19 +121,24 @@ mud_ps.py
 
 
 ---
-
+<div align="center">
+   
 ## 🔧 المتطلبات
+</div>
 - Python 3.6 أو أحدث
 - لا توجد مكتبات خارجية
 
 **التثبيت على Termux إذا لم يكن Python موجوداً**
+
 ```bash
 pkg install python
 ```
 
 ---
+<div align="center">
 
 ## ⚖️ إخلاء المسؤولية
+</div>
 هذه الأداة مخصصة **لأغراض تعليمية واختبار الأنظمة التي تملك صلاحية اختبارها فقط**.
 استخدامها على أنظمة بدون إذن يُعدّ مخالفاً للقانون.
 
