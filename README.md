@@ -35,7 +35,7 @@
 - [مثال على طريقة الإستخدام](#-مثال)
 - [المتطلبات](#-المتطلبات)
 - [إخلاء المسؤولية](https://github.com/mmuhacker/mud-ps/blob/main/README.md#%EF%B8%8F-%D8%A5%D8%AE%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9)
-- [المطوّر](#-المطوّر)
+- [المطوّر](https://github.com/mmuhacker/mud-ps/blob/main/README.md#%E2%80%8D-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D9%91%D8%B1)
 
 ---
 <div align="center">
@@ -157,8 +157,6 @@ pkg install python
 **Muhannad Daher**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=github)](https://github.com/mmuhacker)
-
-[![Contact Us](https://img.shields.io/badge/Contact_Us-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
 
 ---
 
