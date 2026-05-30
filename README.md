@@ -27,7 +27,7 @@
 - [الوصف](#-الوصف)
 - [المميزات](#-المميزات)
 - [التثبيت على Termux](#Termux)
-- [التثبيت على Kali Linux](#Kali_Linux)
+- [التثبيت على Kali Linux](#-Kali_Linux)
 
 ---
 
