@@ -182,6 +182,7 @@ mud_ps.py
 | `3` مسح كامل | من 1 إلى 65535 | 🐢 بطيء |
 
 </div>
+
 ---
 
 <div align="center" id="مثال">
@@ -214,6 +215,7 @@ mud_ps.py
 | arabic-reshaper | دعم النص العربي |
 | python-bidi | اتجاه النص العربي |
 | curl | تنزيل الأداة |
+
 </div>
 
 > ⚠️ **ملاحظة:** بدون تثبيت `arabic-reshaper` و `python-bidi` سيظهر النص العربي معكوساً ومتقطعاً.
