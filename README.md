@@ -29,7 +29,7 @@
 - [الوصف](#-الوصف)
 - [المميزات](#-المميزات)
 - [التثبيت على Termux](#Termux)
-- [التثبيت على Kali Linux](Kali_Linux)
+- [التثبيت على Kali Linux](https://github.com/mmuhacker/mud-ps/blob/main/README.md#kali-linux)
 
 ---
 
