@@ -1,7 +1,9 @@
 <div align="center">
    
 # 🔍 Port Scanner — أداة مسح المنافذ
+
 **تعمل على نظام Kali Linux و تطبيق Termux**
+
  ꧁ঔৣ☬ Muhannad Daher ☬ঔৣ꧂
 
 ---
@@ -27,7 +29,7 @@
 - [الوصف](#-الوصف)
 - [المميزات](#-المميزات)
 - [التثبيت على Termux](#Termux)
-- [التثبيت على Kali Linux](#-Kali_Linux)
+- [التثبيت على Kali Linux](Kali_Linux)
 
 ---
 
