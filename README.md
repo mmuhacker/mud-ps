@@ -34,7 +34,7 @@
 - [طريقة الاستخدام](https://github.com/mmuhacker/mud-ps/blob/main/README.md#-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85)
 - [مثال على طريقة الإستخدام](#-مثال)
 - [المتطلبات](#-المتطلبات)
-- [إخلاء المسؤولية](#-إخلاء_المسؤولية)
+- [إخلاء المسؤولية](https://github.com/mmuhacker/mud-ps/blob/main/README.md#%EF%B8%8F-%D8%A5%D8%AE%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9)
 - [المطوّر](#-المطوّر)
 
 ---
