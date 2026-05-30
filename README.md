@@ -30,6 +30,9 @@
 - [المميزات](#-المميزات)
 - [التثبيت على Termux](#Termux)
 - [التثبيت على Kali Linux](https://github.com/mmuhacker/mud-ps/blob/main/README.md#kali-linux)
+- [التشغيل](#-التشغيل)
+- [طريقة الاستخدام](#-طريقة_الاستخدام)
+- [مثال على طريقة الإستخدام](#-مثال)
 
 ---
 
@@ -69,7 +72,9 @@ sudo ln -sf /usr/local/bin/mud_ps.py /usr/local/bin/ps
 ## 🚀 التشغيل
 ```bash
 ps
-# أو
+```
+**أو بالأمر الكامل**
+```bash
 mud_ps.py
 ```
 
@@ -106,8 +111,8 @@ mud_ps.py
 - Python 3.6 أو أحدث
 - لا توجد مكتبات خارجية
 
+**التثبيت على Termux إذا لم يكن Python موجوداً**
 ```bash
-# التثبيت على Termux إذا لم يكن Python موجوداً
 pkg install python
 ```
 
