@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🔍 Port Scanner
-#أداة مسح المنافذ
+# أداة مسح المنافذ
 
 **تعمل على نظام Kali Linux و تطبيق Termux**
 
